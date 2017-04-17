@@ -1,0 +1,159 @@
+3x3 Board
+
+Input:
+
+1 1 1
+1 1 1
+0 0 1
+
+output:
+
+Unsolvable!
+
+I dont think there is a solvable 3x3
+
+4x4 Board
+
+Input:
+
+1 1 1 1 
+1 1 1 0 
+1 1 1 1 
+1 1 1 1 
+
+Output:
+
+190
+Solved!
+Time taken in milli seconds: 72
+0 0 0 0 
+0 0 0 0 
+0 0 0 1 
+0 0 0 0 
+
+4x5 Board
+
+Input:
+
+1 1 1 0 1 
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 32311
+Solved!
+Time taken in milli seconds: 102
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 1 
+
+5x5 Board
+
+Input:
+
+1 1 1 1 1 
+1 1 0 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+103504
+Solved!
+Raw time:2168
+Time taken in seconds: 2s and 168ms
+0 0 1 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+
+5x6 Board
+
+1 1 1 1 1 1 
+1 1 1 1 1 1 
+1 1 1 0 1 1 
+1 1 1 1 1 1 
+1 1 1 1 1 1 
+
+Output:
+
+Number of iterations: 18948524
+Solved!
+Raw time:31278
+Time taken in seconds: 31s and 278ms
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+1 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+
+6x6 Board
+
+Input:
+
+1 1 1 1 1 1 
+1 1 1 0 1 1 
+1 1 1 1 1 1 
+1 1 1 1 1 1 
+1 1 1 1 1 1 
+1 1 1 1 1 1 
+
+Output:
+
+Number of iterations: 182220026
+Solved!
+Raw time:309362
+Time taken in seconds: 309s and 362ms
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 1 0 0 
+0 0 0 0 0 0 
+
+7x7 Board:
+
+Input:
+
+1 1 1 1 1 1 1 
+1 1 1 1 1 0 1 
+1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 
+
+Output:
+
+1 1 1 1 1 1 1 
+1 1 1 1 1 0 1 
+1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 
+Commence solving...
+BUILD STOPPED (total time: 1,184 minutes 26 seconds)
+
+8x8 Board:
+
+Input:
+
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 
+
+DID NOT RUN!
+
+
+

@@ -1,0 +1,477 @@
+Starting with
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 0 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14287
+Solved!
+Time taken in milli seconds: 83
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 0, Direction: EAST
+Input:
+
+1 1 1 1 1 
+1 1 0 1 1 
+1 1 0 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14286
+Solved!
+Time taken in milli seconds: 77
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 1, Direction: NORTH
+Input:
+
+1 1 1 1 1 
+0 0 1 1 1 
+1 1 0 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14285
+Solved!
+Time taken in milli seconds: 98
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 2, Direction: EAST
+Input:
+
+1 1 0 1 1 
+0 0 0 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14284
+Solved!
+Time taken in milli seconds: 85
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 3, Direction: NORTH
+Input:
+
+0 0 1 1 1 
+0 0 0 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14283
+Solved!
+Time taken in milli seconds: 105
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 4, Direction: SOUTH
+Input:
+
+0 1 0 0 1 
+0 0 0 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14282
+Solved!
+Time taken in milli seconds: 97
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 5, Direction: SOUTH
+Input:
+
+0 1 0 0 1 
+0 0 1 0 0 
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14281
+Solved!
+Time taken in milli seconds: 82
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 6, Direction: WEST
+Input:
+
+0 1 1 0 1 
+0 0 0 0 0 
+1 1 0 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14280
+Solved!
+Time taken in milli seconds: 85
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 7, Direction: NORTH
+Input:
+
+0 0 0 1 1 
+0 0 0 0 0 
+1 1 0 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14279
+Solved!
+Time taken in milli seconds: 90
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 8, Direction: SOUTH
+Input:
+
+0 0 1 0 0 
+0 0 0 0 0 
+1 1 0 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14278
+Solved!
+Time taken in milli seconds: 96
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 9, Direction: NORTH
+Input:
+
+0 0 1 0 0 
+0 0 0 0 0 
+0 0 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14277
+Solved!
+Time taken in milli seconds: 66
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 10, Direction: SOUTH
+Input:
+
+0 0 1 0 0 
+0 0 0 0 0 
+0 1 0 0 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 14276
+Solved!
+Time taken in milli seconds: 99
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 11, Direction: WEST
+Input:
+
+0 0 1 0 0 
+0 0 0 0 1 
+0 1 0 0 0 
+1 1 1 1 0 
+1 1 1 1 1 
+
+Output:
+
+Number of iterations: 5519
+Solved!
+Time taken in milli seconds: 51
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 12, Direction: WEST
+Input:
+
+0 0 1 0 0 
+0 0 0 0 1 
+1 1 0 0 0 
+0 1 1 1 0 
+0 1 1 1 1 
+
+Output:
+
+Number of iterations: 964
+Solved!
+Time taken in milli seconds: 55
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 13, Direction: NORTH
+Input:
+
+0 0 1 0 0 
+0 0 0 0 1 
+0 0 1 0 0 
+0 1 1 1 0 
+0 1 1 1 1 
+
+Output:
+
+Number of iterations: 963
+Solved!
+Time taken in milli seconds: 54
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 14, Direction: WEST
+Input:
+
+0 0 1 0 0 
+0 0 0 0 1 
+0 1 1 0 0 
+0 0 1 1 0 
+0 0 1 1 1 
+
+Output:
+
+Number of iterations: 42
+Solved!
+Time taken in milli seconds: 42
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 15, Direction: NORTH
+Input:
+
+0 0 1 0 0 
+0 0 0 0 1 
+0 0 0 1 0 
+0 0 1 1 0 
+0 0 1 1 1 
+
+Output:
+
+Number of iterations: 41
+Solved!
+Time taken in milli seconds: 43
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 16, Direction: WEST
+Input:
+
+0 0 1 0 0 
+0 0 0 1 1 
+0 0 0 0 0 
+0 0 1 0 0 
+0 0 1 1 1 
+
+Output:
+
+Number of iterations: 9
+Solved!
+Time taken in milli seconds: 8
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 17, Direction: SOUTH
+Input:
+
+0 0 1 0 0 
+0 0 1 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+0 0 1 1 1 
+
+Output:
+
+Number of iterations: 8
+Solved!
+Time taken in milli seconds: 7
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 18, Direction: EAST
+Input:
+
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+0 0 1 0 0 
+0 0 1 1 1 
+
+Output:
+
+Number of iterations: 7
+Solved!
+Time taken in milli seconds: 8
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 19, Direction: SOUTH
+Input:
+
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+0 0 1 0 0 
+0 1 0 0 1 
+
+Output:
+
+Number of iterations: 4
+Solved!
+Time taken in milli seconds: 3
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 20, Direction: EAST
+Input:
+
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 1 1 0 1 
+
+Output:
+
+Number of iterations: 3
+Solved!
+Time taken in milli seconds: 2
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 21, Direction: NORTH
+Input:
+
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 1 1 
+
+Output:
+
+Number of iterations: 2
+Solved!
+Time taken in milli seconds: 2
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Move Index: 22, Direction: SOUTH
+Input:
+
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
+
+Output:
+
+Number of iterations: 1
+Solved!
+Time taken in nano seconds: 0
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 1 0 0 
