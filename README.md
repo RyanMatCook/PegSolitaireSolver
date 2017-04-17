@@ -11,6 +11,6 @@ The program does not apply any heuristics to optimise performance ad neither doe
 ----------------------------------------------------------------------------------------------------------------------
 Running the program:
 
-To run the program, start with running the PegSolitaireSolver.java class i.e. "java <path to PegSolitaireSolver.java>". 
+To run the program, start with running the PegSolitaireSolver.java class i.e. "java /path/to/PegSolitaireSolver.java". 
 
 You can then use the sample input in the text file "Input Data Experiment 1.txt" or "Input Data Experiment 2.txt". Please refer to the "Backtracking Experiment Report.pdf" to get some context on the input data.
